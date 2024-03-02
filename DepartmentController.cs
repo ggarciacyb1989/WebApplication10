@@ -12,6 +12,9 @@ public class DepartmentController : Controller
     {
         string s = "a";
         s = "bcd";
+        s = "Marta;"
+        switch = "Jose";
+
         return View();
     }
 }
